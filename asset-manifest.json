@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hotelbada/static/css/main.137303be.css",
-    "main.js": "/hotelbada/static/js/main.915ac6ac.js",
+    "main.js": "/hotelbada/static/js/main.f373feb1.js",
     "static/js/787.4a57dae1.chunk.js": "/hotelbada/static/js/787.4a57dae1.chunk.js",
     "static/media/hotel-main.jpg": "/hotelbada/static/media/hotel-main.2c79ff694281123fc64b.jpg",
     "static/media/restaurant-event.jpg": "/hotelbada/static/media/restaurant-event.3bba3061f94548e0c311.jpg",
@@ -12,8 +12,6 @@
     "static/media/cafe-w-about3.jpg": "/hotelbada/static/media/cafe-w-about3.3be2f5f08d16a8b41df5.jpg",
     "static/media/restaurant-food.jpg": "/hotelbada/static/media/restaurant-food.69ceff16edd833fd7879.jpg",
     "static/media/restaurant-restaurant.jpg": "/hotelbada/static/media/restaurant-restaurant.d16ae1b36598084437a1.jpg",
-    "static/media/hotel-restaurant-info-700.jpg": "/hotelbada/static/media/hotel-restaurant-info-700.379be9cc582923297de1.jpg",
-    "static/media/hotel-cafe-info-700.jpg": "/hotelbada/static/media/hotel-cafe-info-700.331278c9dadefc555128.jpg",
     "static/media/cafe-w-main1.jpg": "/hotelbada/static/media/cafe-w-main1.307ea5ddf3081e31c739.jpg",
     "static/media/cafe-w-main4.jpg": "/hotelbada/static/media/cafe-w-main4.02d6889d2785837ff10a.jpg",
     "static/media/hotel-bada6.jpg": "/hotelbada/static/media/hotel-bada6.f68095edeccf01d2ec5f.jpg",
@@ -23,15 +21,17 @@
     "static/media/hotel-bada5.jpg": "/hotelbada/static/media/hotel-bada5.d5b70b0eabdbb0535865.jpg",
     "static/media/hotel-bada1.jpg": "/hotelbada/static/media/hotel-bada1.ca2299d32a12a7e91eec.jpg",
     "static/media/hotel-bada2.jpg": "/hotelbada/static/media/hotel-bada2.b33bc3917fe25cc614c4.jpg",
+    "static/media/hotel-restaurant-info-700.jpg": "/hotelbada/static/media/hotel-restaurant-info-700.4e2b5ae627a2bc68975e.jpg",
+    "static/media/hotel-cafe-info-700.jpg": "/hotelbada/static/media/hotel-cafe-info-700.4a5ccd76f856c6d4271d.jpg",
     "static/media/cafe-w-main2.jpg": "/hotelbada/static/media/cafe-w-main2.ef6cc1caf183d2ac7826.jpg",
     "static/media/cafe-w-about2.jpg": "/hotelbada/static/media/cafe-w-about2.021483866b73d93fc8ef.jpg",
     "index.html": "/hotelbada/index.html",
     "main.137303be.css.map": "/hotelbada/static/css/main.137303be.css.map",
-    "main.915ac6ac.js.map": "/hotelbada/static/js/main.915ac6ac.js.map",
+    "main.f373feb1.js.map": "/hotelbada/static/js/main.f373feb1.js.map",
     "787.4a57dae1.chunk.js.map": "/hotelbada/static/js/787.4a57dae1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.137303be.css",
-    "static/js/main.915ac6ac.js"
+    "static/js/main.f373feb1.js"
   ]
 }
