@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hotelbada/static/css/main.137303be.css",
-    "main.js": "/hotelbada/static/js/main.9f9b6e31.js",
+    "main.js": "/hotelbada/static/js/main.915ac6ac.js",
     "static/js/787.4a57dae1.chunk.js": "/hotelbada/static/js/787.4a57dae1.chunk.js",
     "static/media/hotel-main.jpg": "/hotelbada/static/media/hotel-main.2c79ff694281123fc64b.jpg",
     "static/media/restaurant-event.jpg": "/hotelbada/static/media/restaurant-event.3bba3061f94548e0c311.jpg",
@@ -27,11 +27,11 @@
     "static/media/cafe-w-about2.jpg": "/hotelbada/static/media/cafe-w-about2.021483866b73d93fc8ef.jpg",
     "index.html": "/hotelbada/index.html",
     "main.137303be.css.map": "/hotelbada/static/css/main.137303be.css.map",
-    "main.9f9b6e31.js.map": "/hotelbada/static/js/main.9f9b6e31.js.map",
+    "main.915ac6ac.js.map": "/hotelbada/static/js/main.915ac6ac.js.map",
     "787.4a57dae1.chunk.js.map": "/hotelbada/static/js/787.4a57dae1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.137303be.css",
-    "static/js/main.9f9b6e31.js"
+    "static/js/main.915ac6ac.js"
   ]
 }
